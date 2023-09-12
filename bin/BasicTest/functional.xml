@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="functional">
+<test name="functionalSuite"> 
+<classes>
+ <class name="BasicTest.PaymentReturns"/>
+ <class name="BasicTest.PaymentTest"/>
+</classes>
+</test>
+</suite>

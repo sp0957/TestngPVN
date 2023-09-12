@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="masterTestSuite">
+	<suite-files>
+		<suite-file
+			path="D:\Pavan_TestNg\src\BasicTest\sanityTestsuite.xml" />
+		<suite-file
+			path="D:\Pavan_TestNg\src\BasicTest\functional.xml" />
+	</suite-files>
+</suite>
